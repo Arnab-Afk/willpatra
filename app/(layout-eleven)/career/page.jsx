@@ -6,8 +6,8 @@ const Career = dynamic(() => import("@/components/career-page"), {
 	ssr: false,
 });
 export const metadata = {
-	title: "Sofax || Responsive Next.js Template Career Page",
-	description: "Sofax || Responsive Next.js Template",
+	title: "Willpatra || Responsive Next.js Template Career Page",
+	description: "Willpatra || Responsive Next.js Template",
 };
 function CareerPage() {
 	return (

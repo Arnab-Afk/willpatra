@@ -1,6 +1,6 @@
 export const metadata = {
-	title: "Sofax || Responsive Next.js Template Terms and Condition Page",
-	description: "Sofax || Responsive Next.js Template",
+	title: "Willpatra || Responsive Next.js Template Terms and Condition Page",
+	description: "Willpatra || Responsive Next.js Template",
 };
 function TermsAndConditionPage() {
 	return (

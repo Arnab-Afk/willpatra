@@ -4,8 +4,8 @@ import Faq from "@/components/home/home-five/faq";
 import Testimonials from "@/components/home/home-five/testimonials";
 import PricePlan from "@/components/home/home-one/price-plan";
 export const metadata = {
-	title: "Sofax || Responsive Next.js Template Pricing Page",
-	description: "Sofax || Responsive Next.js Template",
+	title: "Willpatra || Responsive Next.js Template Pricing Page",
+	description: "Willpatra || Responsive Next.js Template",
 };
 function Pricing() {
 	return (

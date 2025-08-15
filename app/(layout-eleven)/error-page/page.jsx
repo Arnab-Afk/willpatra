@@ -2,8 +2,8 @@ import ErrorImg from "@/public/images/contact/404.png";
 import Image from "next/image";
 import Link from "next/link";
 export const metadata = {
-	title: "Sofax || Responsive Next.js Template Error Page",
-	description: "Sofax || Responsive Next.js Template",
+	title: "Willpatra || Responsive Next.js Template Error Page",
+	description: "Willpatra || Responsive Next.js Template",
 };
 export default function ErrorPage() {
 	return (

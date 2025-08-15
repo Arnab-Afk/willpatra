@@ -4,8 +4,8 @@ import Faq from "@/components/home/home-five/faq";
 import About from "@/components/service-page/about";
 import Services from "@/components/service-page/services";
 export const metadata = {
-	title: "Sofax || Responsive Next.js Template Service Page",
-	description: "Sofax || Responsive Next.js Template",
+	title: "Willpatra || Responsive Next.js Template Service Page",
+	description: "Willpatra || Responsive Next.js Template",
 };
 function ServicePage() {
 	return (

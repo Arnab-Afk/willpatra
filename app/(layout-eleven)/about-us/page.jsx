@@ -7,8 +7,9 @@ import TeamMembers from "@/components/team-page/TeamMembers";
 
 // Teams images
 export const metadata = {
-	title: "Sofax || Responsive Next.js Template About Us",
-	description: "Sofax || Responsive Next.js Template",
+	title: "Willpatra || Responsive Next.js Template About Us",
+
+	description: "Willpatra || Responsive Next.js Template",
 };
 function AboutUs() {
 	return (

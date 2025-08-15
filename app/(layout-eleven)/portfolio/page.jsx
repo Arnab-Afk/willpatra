@@ -7,8 +7,8 @@ const PortfolioList = dynamic(() => import("@/components/portfolio/PortfolioList
 });
 
 export const metadata = {
-	title: "Sofax || Responsive Next.js Template Portfolio Page",
-	description: "Sofax || Responsive Next.js Template",
+	title: "Willpatra || Responsive Next.js Template Portfolio Page",
+	description: "Willpatra || Responsive Next.js Template",
 };
 function PortfolioPage() {
 	return (
