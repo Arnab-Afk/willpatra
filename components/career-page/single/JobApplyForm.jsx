@@ -46,7 +46,7 @@ function JobApplyForm() {
 				</div>
 				<div className="sofax-form-box">
 					<input type="checkbox" id="css" />
-					<label htmlFor="css">I agree to the mthemeus privacy policy*</label>
+					<label htmlFor="css">I agree to the privacy policy*</label>
 				</div>
 				<button className="sofax-subcribe-btn2 mt-30" type="submit">
 					Submit Now

@@ -92,7 +92,7 @@ function Footer() {
 						</Link>
 					</div>
 					<div className="sofax-footer3-text">
-						<p>© 2024 Mthemeus All Rights Reserved.</p>
+						<p>© 2025-26 Arnab Bhowmik All Rights Reserved.</p>
 					</div>
 				</div>
 			</div>

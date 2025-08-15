@@ -2,7 +2,7 @@ function FooterBottom() {
 	return (
 		<div className="sofax-footer3-wrap footer10-bottom-wrap">
 			<div className="sofax-footer3-text">
-				<p>© 2024 Mthemeus All Rights Reserved.</p>
+				<p>© 2025-26 Arnab Bhowmik All Rights Reserved.</p>
 			</div>
 			<div className="sofax-social-icon footer-version10">
 				<ul>
