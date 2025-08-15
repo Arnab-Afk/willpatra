@@ -6,13 +6,14 @@ import PricePlan from "@/components/home/home-one/price-plan";
 import Services from "@/components/home/home-one/services";
 import Testimonial from "@/components/home/home-one/testimonial";
 import WhyChooseUs from "@/components/home/home-one/why-choose-us";
-
+import Features from "@/components/home/home-one/features";
 function HomeOne() {
 	return (
 		<>
 			<HeroSection />
 			<LogoSlider />
 			<Services />
+			<Features />
 			<WhyChooseUs />
 			<PricePlan />
 			<Integrations />
