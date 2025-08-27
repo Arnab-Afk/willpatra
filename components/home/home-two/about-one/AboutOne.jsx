@@ -19,12 +19,11 @@ function AboutOne() {
 						<div className="sofax-default-content">
 							<div className="tg-heading-subheading ">
 								<h2 className="tac">
-									<TextSplitFadeIn> Easily trade anytime, anywhere on the go</TextSplitFadeIn>
+									<TextSplitFadeIn> Secure Your Legacy Anytime, Anywhere with WillPatra</TextSplitFadeIn>
 								</h2>
 							</div>
 							<p className="tac">
-								Our user-friendly mobile app is designed for convenience, ensuring you can execute
-								trades & manage your portfolio effortlessly anytime anywhere.
+								Our user-friendly platform is designed for convenience, ensuring you can plan your succession & manage your legacy effortlessly anytime anywhere.
 							</p>
 							<div className="extra-mt">
 								<div className="sofax-content-iconbox-wrap">
@@ -32,10 +31,9 @@ function AboutOne() {
 										<Image src={Icon6} alt="Icon6" />
 									</div>
 									<div className="sofax-iconbox-data">
-										<h4>Largest public crypto app</h4>
+										<h4>Expert Guidance and Support</h4>
 										<p>
-											Buy & sell popular digital currencies, keep track of them in the one place &
-											watch currencies you’re interested.
+											Connect with our curated network of global advisors for legal, tax, and financial expertise. We guide you through every step of succession planning.
 										</p>
 									</div>
 								</div>
@@ -44,10 +42,9 @@ function AboutOne() {
 										<Image src={Icon7} alt="Icon" />
 									</div>
 									<div className="sofax-iconbox-data">
-										<h4>Your assets are protected</h4>
+										<h4>Your Data is Fully Protected</h4>
 										<p>
-											Robust security features, such as two-factor authentication & encryption, to
-											protect users accounts and transactions.
+											Robust security features, such as encryption and secure storage, to protect your documents and personal information with complete privacy.
 										</p>
 									</div>
 								</div>
@@ -56,10 +53,9 @@ function AboutOne() {
 										<Image src={Icon8} alt="Icon" />
 									</div>
 									<div className="sofax-iconbox-data">
-										<h4>Get the help you need when you need it</h4>
+										<h4>Transparent Fees and No Surprises</h4>
 										<p>
-											Leading crypto app with top-notch security and robust asset protection.
-											Access assistance whenever you need it.
+											With a flat, transparent fee and no hidden costs, you always know what to expect. Get the help you need when you need it.
 										</p>
 									</div>
 								</div>

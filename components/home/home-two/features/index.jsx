@@ -14,7 +14,7 @@ function Features() {
 			<div className="sofax-section-title center">
 				<div className="tg-heading-subheading ">
 					<h2>
-						<TextSplitFadeIn>Secure solutions for your digital assets</TextSplitFadeIn>
+						<TextSplitFadeIn>Features That Redefine Succession Planning</TextSplitFadeIn>
 					</h2>
 				</div>
 			</div>
@@ -27,10 +27,9 @@ function Features() {
 									<Image src={Icon1} alt="features" />
 								</div>
 								<div className="sofax-features-content">
-									<h4>Send & Receive</h4>
+									<h4>Video Declarations</h4>
 									<p>
-										Sending & receiving cryptocurrencies such as Bitcoin, Ethereum or to other
-										digital assets between deggerent.
+										Add a personal touch to your Will with secure video declarations for clarity and authenticity.
 									</p>
 								</div>
 							</FadeInStaggerTwoChildren>
@@ -39,10 +38,9 @@ function Features() {
 									<Image src={Icon2} alt="Feature" />
 								</div>
 								<div className="sofax-features-content">
-									<h4>100% Secure Wallet</h4>
+									<h4>Automatic Notifications</h4>
 									<p>
-										Cryptocurrency wallets implement to robust security measures there is no such
-										thing as absolute security.
+										Ensure executors and beneficiaries are informed promptly with automated notifications.
 									</p>
 								</div>
 							</FadeInStaggerTwoChildren>
@@ -53,10 +51,9 @@ function Features() {
 									<Image src={Icon5} alt="Features Icon" />
 								</div>
 								<div className="sofax-features-content">
-									<h4>IOS & Android App</h4>
+									<h4>Secure Storage</h4>
 									<p>
-										Apps developed using programming languages such as swift or objective-c & are
-										typically distributed.
+										Your documents are encrypted and securely stored, ensuring complete privacy and peace of mind.
 									</p>
 								</div>
 								<div className="sofax-features-thumb">
@@ -70,10 +67,9 @@ function Features() {
 									<Image src={Icon4} alt="Feature Ion" />
 								</div>
 								<div className="sofax-features-content">
-									<h4>Tranding Charts</h4>
+									<h4>Global Advisor Network</h4>
 									<p>
-										Traders investors & analyze historical price data, identify trendsand, make
-										informed decisions about buying.
+										Access a curated network of domestic and cross-border advisors for expert guidance.
 									</p>
 								</div>
 							</FadeInStaggerTwoChildren>
@@ -82,10 +78,9 @@ function Features() {
 									<Image src={Icon5} alt="Icon 5" />
 								</div>
 								<div className="sofax-features-content">
-									<h4>Real Time Tranding</h4>
+									<h4>Transparent Pricing</h4>
 									<p>
-										This data includes current prices that trading volume, bid-ask to spreads or
-										order book depth & relevant metrics.
+										Flat fees with no hidden costs, so you always know what to expect.
 									</p>
 								</div>
 							</div>

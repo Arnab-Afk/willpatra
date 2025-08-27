@@ -19,22 +19,19 @@ function CtaOne() {
 							<div className="tg-heading-subheading ">
 								<h2>
 									<TextSplitFadeIn>
-										Buy, sell & securely store a wide range of cryptocurrencies.
+										Create Your Will with Ease and Confidence
 									</TextSplitFadeIn>
 								</h2>
 							</div>
 							<p>
-								You can now manage your cryptocurrencies with ease by buying, selling, storing &
-								transferring them all in one place. Additionally, you can acquire the right to buy or
-								sell stocks for a specific price with no commission fees.
+								The Will to Make Life Easier. Where there’s a Will, there’s a smarter way - independently or expertly guided. Our platform is designed to take the overwhelm out of Will-making.
 							</p>
 							<p>
-								Finally, you can buy, sell and securely store a variety of cryptocurrencies with this
-								app and protect your crypto with best-in-className cold storage.
+								Whether you're planning ahead or catching up, we guide you step-by-step with built-in explanations and secure storage. It’s your Will, your way.
 							</p>
 							<FadeInUp className="extra-mt">
-								<Link className="sofax-default-btn pill" data-text="Sign up now" href="/sign-up">
-									<span className="button-wraper">Sign up now</span>
+								<Link className="sofax-default-btn pill" data-text="Create Now" href="/will-creation">
+									<span className="button-wraper">Create Now</span>
 								</Link>
 							</FadeInUp>
 						</div>

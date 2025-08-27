@@ -18,7 +18,7 @@ function Hero() {
 								data-ani="slider-custom-anim-left"
 								data-ani-delay="0.3s"
 							>
-								The next-gen crypto trading platform
+								The Will to Make Life Easier.
 							</h1>
 							<p>
 								Building a next crypto wallet and trading platform requires a comprehensive
