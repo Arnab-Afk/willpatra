@@ -15,7 +15,7 @@ function HeroButton() {
 				channel="youtube"
 				youtube={{ autoplay: 0 }}
 				isOpen={isOpen}
-				videoId="6mttwIBcig0"
+				videoId="XH_4rj-j0sU"
 				onClose={() => setOpen(false)}
 			/>
 
