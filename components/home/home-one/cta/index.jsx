@@ -8,10 +8,11 @@ function Cta() {
 			<div className="container">
 				<div className="sofax-cta-content">
 					<div className="tg-heading-subheading animation-style3">
-						<h2>Start Your Succession Journey Today</h2>
+						<h2>Start Your WillPatra Journey Today</h2>
 					</div>
 					<p>
-						Take control of your legacy with WillPatra. Plan, protect, and pass on what matters most with ease and
+						Take control of your legacy with WillPatra.
+						<br/> Plan, protect, and pass on what matters most with ease and
 						confidence.
 					</p>
 					<FadeInUp className="extra-mt">

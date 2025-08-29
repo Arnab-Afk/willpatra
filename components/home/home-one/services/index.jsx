@@ -13,6 +13,7 @@ const servicesData = [
 		title: "Will Creation",
 		description:
 			"Protect your legacy and your loved ones with our intuitive and secure Will creation platform.",
+		link: "/willpatra",
 	},
 	{
 		id: crypto.randomUUID(),
@@ -20,6 +21,7 @@ const servicesData = [
 		title: "Succession Planning",
 		description:
 			"Optimize the value of your wealth with expert-led, tailored succession planning solutions.",
+		link: "/succession-planning",
 	},
 	{
 		id: crypto.randomUUID(),
@@ -27,6 +29,7 @@ const servicesData = [
 		title: "Transition Assistance",
 		description:
 			"Ensure smooth and precise execution of your wishes with our trusted network of experts.",
+		link: "/transition-assistance",
 	},
 ];
 

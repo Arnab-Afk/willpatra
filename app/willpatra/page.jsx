@@ -13,13 +13,13 @@ function HomeTwo() {
 	return (
 		<>
 			<Hero />
-			<Counter />
+			{/* <Counter /> */}
 			<Features />
 			<CtaOne />
 			<AboutOne />
 			<WhyChooseUs />
-			<LogoSlider />
-			<Testimonials />
+			{/* <LogoSlider /> */}
+			{/* <Testimonials /> */}
 			<Faq />
 			<CtaTwo />
 		</>

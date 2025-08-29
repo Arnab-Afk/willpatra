@@ -18,13 +18,17 @@ function Hero() {
 								data-ani="slider-custom-anim-left"
 								data-ani-delay="0.3s"
 							>
-								The Will to Make Life Easier.
+								The Will to Make Life Easier
 							</h1>
+							<h4>
+Where there’s a Will, there’s a smarter way - independently or expertly guided.
+							</h4>
+							<br/>
 							<p>
-								Building a next crypto wallet and trading platform requires a comprehensive
-								understanding of the evolving to a crypto landscape and the needs of users.
+								 Our platform is designed to take the overwhelm out of Will-making. Whether you're planning ahead or catching up, we guide you step-by-step with built-in explanations and secure storage. It’s your Will, your way.
+
 							</p>
-							<div className="extra-mt">
+							{/* <div className="extra-mt">
 								<div className="sofax-app-wrap position-relatiove">
 									<a target="_blank" href="https://www.apple.com/app-store/">
 										<Image src={AppleStore} alt="Apple Store" />
@@ -37,7 +41,7 @@ function Hero() {
 										<Image src={Shape1} alt="Shape" />
 									</div>
 								</div>
-							</div>
+							</div> */}
 						</div>
 					</div>
 					<div className="col-lg-5">
