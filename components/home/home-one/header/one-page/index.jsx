@@ -25,7 +25,7 @@ const menuItemsData = [
 ];
 function Header() {
 	return (
-		<header className="site-header sofax-header-section site-header--menu-center bg-white" id="sticky-menu">
+		<header className="site-header sofax-header-section site-header--menu-center bg-transparent" id="sticky-menu">
 			<div className="container">
 				<nav className="navbar site-navbar">
 					<HeaderLogo />

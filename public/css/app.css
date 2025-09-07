@@ -15,18 +15,18 @@
 
 **/
 :root {
-	--heading-color: #0e0e0e;
-	--body-color: #3c3c3c;
-	--accent-color: #e5abf3;
-	--light-bg: #f9f9fa;
-	--dark-bg: #0e0e0e;
-	--white-bg: #fff;
-	--white-color: #fff;
-	--light-color: #eaedf0;
-	--light-color2: #dbdbdb;
-	--light-color3: #dbdbdb1a;
-	--green-bg: #0c9347;
-	--grey-color: #747474;
+	--heading-color: #22223B;
+	--body-color: #4A4E69;
+	--accent-color: #FFB4A2;
+	--light-bg: #FAFBFF;
+	--dark-bg: #232946;
+	--white-bg: #dadff6;
+	--white-color: #FFFFFF;
+	--light-color: #B8B8D1;
+	--light-color2: #EDEDED;
+	--light-color3: #B8B8D11A;	
+	--green-bg: #43B581;
+	--grey-color: #B8B8D1;
 }
 
 /*1.0 base css*/
