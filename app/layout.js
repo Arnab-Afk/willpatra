@@ -26,6 +26,8 @@ import "../public/css/app.css";
 import "../public/css/main.css";
 import "../public/css/mobile-nav.css";
 
+export const runtime = 'edge';
+
 export const metadata = {
 	title: "Willpatra ",
 	description: "Willpatra || Home",
