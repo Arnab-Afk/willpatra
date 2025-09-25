@@ -10,15 +10,23 @@ import WhyChooseUs from "@/components/home/home-one/why-choose-us";
 import Features from "@/components/home/home-one/features";
 import Solution from "@/components/home/home-one/solution";
 import Problem from "@/components/home/home-one/problem";
+import Heart from "@/components/home/home-one/heart";
+import Probsol from "@/components/home/home-one/probsol";
+import NewSolution from "@/components/home/home-one/newsolution";
+import Trust from "@/components/home/home-one/hero/trust";
 function HomeOne() {
 	return (
 		<>
 			<HeroSection />
 			{/* <LogoSlider /> */}
-			<WhyChooseUs />
+			<Heart />
+			<Probsol />
+			<NewSolution />
+			<Trust />	
+			{/* <WhyChooseUs /> */}
 			<AboutTwo />
-			<Problem />
-			<Solution />
+			{/* <Problem />
+			<Solution /> */}
 			<Services />
 			<Features />
 			

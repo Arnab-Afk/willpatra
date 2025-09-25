@@ -29,7 +29,7 @@ const servicesData = [
 		title: "Transition Assistance",
 		description:
 			"Ensure smooth and precise execution of your wishes with our trusted network of experts.",
-		link: "/transition-assistance",
+		link: "/coming-soon",
 	},
 ];
 

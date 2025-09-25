@@ -12,7 +12,7 @@ function Hero() {
 					<HeroButton />
 				</div>
 			</div>
-			<HeroThumb />
+			
 		</>
 	);
 }
