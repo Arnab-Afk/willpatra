@@ -7,9 +7,9 @@ function Problem() {
 			<div className="container">
 				<div className="sofax-section-title center max-width-large sofax-default-content pb-0">
 					<div className="tg-heading-subheading animation-style3">
-						<h2>The Problem</h2>
+						<h2 className="text-white">The Problem</h2>
 					</div>
-					<p>
+					<p className="text-white">
 						For most people, making a will or setting up an estate plan feels complicated, expensive, and emotionally overwhelming. So they postpone it until it's too late.
 						The existing solutions are fragmented, overly transactional, and rarely built for evolving, cross-border families. They lead to generations of loved ones left to deal with preventable conflict, confusion, and legal chaos.
 					</p>

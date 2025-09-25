@@ -3,6 +3,7 @@ import Icon2 from "@/public/images/v2/icon2.png";
 import Icon4 from "@/public/images/v2/icon4.png";
 import Icon5 from "@/public/images/v2/icon5.png";
 import Phone from "@/public/images/v2/phone.png";
+import Mobilesecurity from "@/public/images/v2/mobile-security.png";
 import Image from "next/image";
 import { FadeInStaggerTwo, FadeInStaggerTwoChildren } from "../../../animation/FadeInStaggerTwo";
 import FadeInUp from "../../../animation/FadeInUp";
@@ -48,10 +49,10 @@ function Features() {
 						<div className="col-lg-4 col-md-12">
 							<FadeInUp className="sofax-features-box features-v2 position-relative">
 								<div className="sofax-features-icon">
-									<Image src={Icon5} alt="Features Icon" />
+									<Image src={Mobilesecurity} alt="Features Icon" width={60} height={60} style={{maxWidth: '60px', maxHeight: '60px', objectFit: 'contain'}} />
 								</div>
-								<div className="sofax-features-content">
-									<h4>Secure Storage</h4>
+								<div className="sofax-features-content text-white">
+									<h4 className="text-white">Secure Storage</h4>
 									<p>
 										Your documents are encrypted and securely stored, ensuring complete privacy and peace of mind.
 									</p>

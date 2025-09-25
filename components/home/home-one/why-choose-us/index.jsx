@@ -26,7 +26,7 @@ function WhyChooseUs() {
 					<div className="col-lg-7">
 						<div className="sofax-default-content tac ml-50 mb-130 animation-title animation-style3">
 							<div className="tg-heading-subheading animation-style3">
-								<h2>The Heart behind WillPatra</h2>
+								<h2>The Heart Behind WillPatra</h2>
 							</div>
 							<p>
 								WillPatra is your trusted companion in the world of succession planning, reimagining it with clarity, ease, and care. Our mission is simple: Make planning for the future feel as natural and empowering as planning for your day tomorrow. With a smart blend of intuitive technology and human support, WillPatra helps families take control of what matters most to them: the protection of generational wealth and the security of their family.
@@ -48,15 +48,13 @@ function WhyChooseUs() {
 					<div className="col-lg-7">
 						<div className="sofax-default-content mr-80 tac fs-19">
 							<div className="tg-heading-subheading animation-style3">
-								<h2>Why trust WillPatra?</h2>
+								<h2>Why Trust WillPatra?</h2>
 							</div>
 							<p>
 								At WillPatra, we don’t just digitize succession planning; we redesign the entire experience. We act as your Planning Partners that guide, manage, and coordinate every part of the process, so you’re never left figuring things out alone. Our curated network of global advisors, both domestic and cross-border, steps in when needed, ensuring you get the right advice without any overwhelm. With a flat, transparent fee and no hidden costs, you always know what to expect. Your data is protected, with every document securely stored and encrypted to ensure complete privacy and peace of mind. Features like Video Declarations and automatic notifications for executors and beneficiaries ensure your Will is not just legally clear, but emotionally and practically complete.
 							</p>
 							<FadeInUp className="extra-mt">
-								<Link className="sofax-default-btn pill" data-text="Get started" href="/contact-us">
-									<span className="button-wraper">Get started</span>
-								</Link>
+								
 							</FadeInUp>
 						</div>
 					</div>

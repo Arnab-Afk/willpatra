@@ -30,9 +30,9 @@ function HeroButton() {
 						<Image src={PlayBtn} alt="Play Btn" />
 						Watch A Demo
 					</button>
-					<div className="hero3-shape">
+					{/* <div className="hero3-shape">
 						<Image src={Shape1} alt="Shape1" />
-					</div>
+					</div> */}
 				</FadeInStaggerTwoChildren>
 			</FadeInStaggerTwo>
 		</>

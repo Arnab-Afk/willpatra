@@ -17,16 +17,17 @@
 :root {
 	--heading-color: #0e0e0e;
 	--body-color: #3c3c3c;
-	--accent-color: #e5abf3;
-	--light-bg: #f9f9fa;
+	--accent-color: #4b1128;
+	--light-bg: #fff;
 	--dark-bg: #0e0e0e;
-	--white-bg: #fff;
-	--white-color: #fff;
-	--light-color: #eaedf0;
+	--white-bg: #fff0dc;
+	--white-color: #fff0dc;
+	--light-color: #fff0dc;
 	--light-color2: #dbdbdb;
 	--light-color3: #dbdbdb1a;
 	--green-bg: #0c9347;
 	--grey-color: #747474;
+	--purple-color: #e5abf3;
 }
 
 /*1.0 base css*/
@@ -2254,7 +2255,7 @@ a.social-icon img {
 	-webkit-transition: all 0.4s ease-in-out;
 	transition: all 0.4s ease-in-out;
 	overflow: hidden;
-	color: var(--heading-color) !important;
+	color: var(--light-bg) !important;
 	background-color: var(--accent-color);
 	position: relative;
 	z-index: 0;
@@ -3971,8 +3972,8 @@ h1.post__title {
 }
 
 .sofax-popup-video {
-	color: var(--white-bg);
-	background-color: #0e0e0e;
+	color: var(--dark-bg);
+	background-color: #fff;
 	font-weight: 700;
 	font-size: 16px;
 	line-height: 24px;

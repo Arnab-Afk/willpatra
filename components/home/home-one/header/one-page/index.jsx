@@ -25,7 +25,7 @@ const menuItemsData = [
 ];
 function Header() {
 	return (
-		<header className="site-header sofax-header-section site-header--menu-center bg-white" id="sticky-menu">
+		<header className="site-header sofax-header-section site-header--menu-center bg-transaparent" id="sticky-menu">
 			<div className="container">
 				<nav className="navbar site-navbar">
 					<HeaderLogo />
@@ -62,7 +62,7 @@ function Header() {
 					</div>
 					<HeaderButton />
 
-					<MobileNavbar menuItemsData={menuItemsData} title="Sofax" onePage={true} />
+					<MobileNavbar menuItemsData={menuItemsData} title="" onePage={true} />
 				</nav>
 			</div>
 		</header>

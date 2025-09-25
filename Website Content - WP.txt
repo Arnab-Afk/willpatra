@@ -1,13 +1,21 @@
 ﻿Website Content
-1. Homepage
+Homepage
 I. Headline: One Platform. A Lifetime of Peace. 
 II. Subheading: You Plan Your Life. We’ll Help You Protect It. 
-WillPatra is your Planning Partner in your complete succession journey - Wills, wealth, experts, and everything in between.
+WillPatra is your Planning Partner for life’s big handovers — from creating your Will to succession planning and transition assistance — guiding you every step of the way with trusted experts and an easy, end-to-end experience
 III. CTA button:
 Start Today (Once clicked, it will take you to The WillPatra Experience page)
-IV. Logo, images
-2. The Heart behind WillPatra
-I. Who are we:
+IV. Images
+The Heart behind WillPatra
+I. 
+
+The problem
+For most people, making a will or setting up an estate plan feels complicated, expensive, and emotionally overwhelming. So they postpone it until it's too late.
+The existing solutions are fragmented, overly transactional, and rarely built for evolving, cross-border families. They lead to generations of loved ones left to deal with preventable conflict, confusion, and legal chaos. 
+The solution: Will Patra isn’t just a tool; it’s a complete, end-to-end experience. 
+Whether you want to start today, explore your options, or walk the full journey with support, we meet you where you are and grow with you as your life evolves.
+From the first clause of your will to the last transfer of property, we make sure it all flows smoothly, legally, and with dignity. As they say, “A stitch in time saves nine”. 
+Who are we:
 Will Patra is your trusted companion in the world of succession planning (a space too often clouded by confusion, anxiety, and delay). We're reimagining it with clarity, ease, and care. Our mission is simple: Make planning for the future feel as natural and empowering as planning for your day tomorrow.
 With a smart blend of intuitive technology and human support, Will Patra helps families take control of what matters most to them: the protection of generational wealth and the security of their family.
 III. Why trust WillPatra? 
@@ -23,15 +31,8 @@ That’s when we realised: Estate planning doesn’t have to be this hard.
 So we built WillPatra; first, with the thought of being a platform for cross-border Indian families, but as we spoke to more people, we saw a bigger gap: most Indians faced this issue because it felt overwhelming, unaffordable, or too uncomfortable to think about until it was urgent.
 Finally, we created WillPatra into a platform that blends expert support and intuitive technology to help families take control of what matters most to them: the protection of generational wealth and the security of their family without fear, confusion, or chaos. 
 And this is just the beginning.
-The problem
-For most people, making a will or setting up an estate plan feels complicated, expensive, and emotionally overwhelming. So they postpone it until it's too late.
-The existing solutions are fragmented, overly transactional, and rarely built for evolving, cross-border families. They lead to generations of loved ones left to deal with preventable conflict, confusion, and legal chaos. 
-The solution: Will Patra isn’t just a tool; it’s a complete, end-to-end experience. 
-Whether you want to start today, explore your options, or walk the full journey with support, we meet you where you are and grow with you as your life evolves.
-From the first clause of your will to the last transfer of property, we make sure it all flows smoothly, legally, and with dignity. As they say, “A stitch in time saves nine”.
-
-
 II. Meet the minds behind WillPatra: 
+
 
 Your crew for a safer tomorrow
 Jinkan Khatadia (Co-Founder) (with image and text):
@@ -40,46 +41,45 @@ The WillPatra Experience
 Where there’s a Will, there’s a Way - Explore further below.
 Will Creation
 Protect Your Legacy and Your Loved Ones
-	Succession Planning
+Succession Planning
 Optimize the Value of your Wealth
-	Transition Assistance
+Transition Assistance
 From your Hands to Theirs, Smoothly
-	(It will automatically take the user to the Will Creation page, but the three boxes above will be at the top of the page, giving the user an option to click on the other 2 services)
+
+(It will automatically take the user to the Will Creation page, but the three boxes above will be at the top of the page, giving the user an option to click on the other 2 services)
 1) If Will Creation is clicked:
 Heading: 
-1. The Will to Make Life Easier.
-Where there’s a Will, there’s a smarter way - independently or expertly guided. Our platform is designed to take the overwhelm out of Will-making. Whether you're planning ahead or catching up, we guide you step-by-step with built-in explanations and secure storage. It’s your Will, your way.
+The Will to Make Life Easier.
+Where there’s a Will, there’s a smarter way - independently or expertly guided. 
+Our platform is designed to take the overwhelm out of Will-making. Whether you're planning ahead or catching up, we guide you step-by-step with built-in explanations and secure storage. It’s your Will, your way.
 How it works:
-1. Choose between Free DIY Will or SmartWill Assistance
-2. Fill in the required information
-3. Edit or update your Will anytime as life evolves
+Choose between Free DIY Will or SmartWill Assistance
+Fill in the required information
+Edit or update your Will anytime as life evolves
 It’s that easy!
 Show the video (how to create a Will). Look at the video to determine how easy it is to create your own Will
 CTA BUTTON for the login info of the platform
 (These are 2 clickable boxes)
 Create your FREE DIY Will
 
+Zero Cost Will Creation
+Built-in Explanations
+Editable Anytime
+Stay in control. Every decision, every detail.
 
-* Zero Cost Will Creation
-* Built-in Explanations
-* Editable Anytime
-* Stay in control. Every decision, every detail
+Create Now (CTA Button - redirect to platform)
+SmartWill Assistance
 
+Minimal Cost guidance
+Expert Assistance
+Editable Anytime
+Not up for DIY? Let our experts guide you
 
-Create Now (Button)
-	SmartWill Assistance
+Create Now (CTA Button - redirect to platform)
 
-
-* Minimal Cost guidance
-* Expert Assistance
-* Editable Anytime
-* Not up for DIY? Let our experts guide you
-
-
-Create Now (Button)
-	FAQs (button that will redirect the  user to the FAQs page under the Will creation section)
+FAQs (button that will redirect the  user to the FAQs page under the Will creation section)
 (If the DIY option is clicked, the form will appear.)
-(If SmartWill Assistance is clicked, the following will appear):
+(If SmartWill Assistance is clicked, it will be redirected to the platform):
 SmartWill Assistance 
 Need a little help? We’ve got you.
 Will Patra connects you with trusted experts who will help you with all your unique needs along the way. It’s not a one-and-done deal; it's a long-term relationship. We will be the bridge between you and the right guidance; all at rates that won’t make you write another Will :)
@@ -98,69 +98,64 @@ Coming soon: The finishing touches are underway. Your transition, your term.
 Executing your Wishes with compassion and precision
 With our trusted network of experts, we take care of everything from paperwork and legal filings to coordinating with beneficiaries and managing the entire estate transfer process, whether domestic or cross-border. All at a flat fee, with one clear goal: ensuring your wishes are carried out exactly as intended, smoothly and efficiently.
 Planning is powerful, but execution seals it. Come back for the final piece.
-3. Blogs/Resources
-* What’s coming next? (Feature-wise, next phases, etc.)
-* General articles about the topic
-4. For PSPs (Join the Legacy Circle), Powering succession planning, together. 
-* What is it? 
+Blogs/Resources
+What’s coming next? (Feature-wise, next phases, etc.)
+General articles about the topic
+For PSPs (Join the Legacy Circle), Powering succession planning, together. 
+What is it? 
 WillPatra’s Legacy Circle is a curated community of trusted professionals like lawyers, CAs, tax experts, and estate advisors, who can work with us to make succession planning accessible, affordable, and human. We connect you with families who need your expertise, and give you the tools to support them more efficiently, meaningfully, and at scale.
-* Why Join? (Benefits for Professionals)
-* Warm Leads - Gain access to clients already looking for succession planning guidance.
-* Smart Tools - Get access to digital workflows, shared documents, and communication tools that make your work easier and more efficient.
-* Visibility & Credibility - Be featured on our platform, get verified, and grow your professional presence among modern, forward-thinking clients.
-* A Trusted Community - Collaborate with like-minded professionals across legal, tax, property, and financial verticals, both in India and abroad.
-* Who Can Join?
-* Lawyers (succession, estate specialists)
-* Chartered Accountants and Tax Consultants
-* Estate planners
-* Property consultants dealing with inheritance or asset division
-* Cross-border planning experts (especially for NRI cases)
-* How It Works (3 Steps or a Simple Flow)
-1. Apply to Join – Submit a short form with your credentials and area of expertise.
-2. Get Verified – We’ll review and onboard selected professionals to ensure a trusted network.
-3. Start Collaborating – Begin receiving referrals, sharing knowledge, and making succession simpler for families everywhere.
-4. CTA - Ready to make an impact where it matters most?
+Why Join? (Benefits for Professionals)
+Warm Leads - Gain access to clients already looking for succession planning guidance.
+Smart Tools - Get access to digital workflows, shared documents, and communication tools that make your work easier and more efficient.
+Visibility & Credibility - Be featured on our platform, get verified, and grow your professional presence among modern, forward-thinking clients.
+A Trusted Community - Collaborate with like-minded professionals across legal, tax, property, and financial verticals, both in India and abroad.
+Who Can Join?
+Lawyers (succession, estate specialists)
+Chartered Accountants and Tax Consultants
+Estate planners
+Property consultants dealing with inheritance or asset division
+Cross-border planning experts (especially for NRI cases)
+How It Works (3 Steps or a Simple Flow)
+Apply to Join – Submit a short form with your credentials and area of expertise.
+Get Verified – We’ll review and onboard selected professionals to ensure a trusted network.
+Start Collaborating – Begin receiving referrals, sharing knowledge, and making succession simpler for families everywhere.
+CTA - Ready to make an impact where it matters most?
  Join the WillPatra Legacy Circle today. [Apply Now] button
 
-
-   5. Free Downloadable Guides
+Free Downloadable Guides
 Simple tools to get you started, one page at a time.
 Planning for the future doesn’t have to be overwhelming. Whether you're just starting or looking to organize what you already have, our downloadable resources are designed to simplify the process and help you take that important first step.
 Available Guides
 1. Will Starter Kit
 Everything you need to begin writing your will, explained simply.
-   * Key terms you should know
-   * What to include in your will
-   * Step-by-step checklist to get started
-   * Common mistakes to avoid
+Key terms you should know
+What to include in your will
+Step-by-step checklist to get started
+Common mistakes to avoid
 2. Checklist Before You Die
 A practical guide to get your affairs in order (Before it’s too late).
-   * What documents to keep and where
-   * How to prepare your family
-   * Legacy notes: letters, messages, passwords
+What documents to keep and where
+How to prepare your family
+Legacy notes: letters, messages, passwords
 3. How to Talk to Your Parents About Their Will
 A thoughtful conversation guide for adult children of aging parents.
-   * Why it matters and how to approach it
-   * Talking points to avoid conflict or fear
-   * Encouraging clarity and documentation
+Why it matters and how to approach it
+Talking points to avoid conflict or fear
+Encouraging clarity and documentation
 Why These Matter
 These guides aren’t just checklists; they’re conversation starters, clarity creators, and emotional safeguards. They help you prepare with confidence, involve your family, and take charge of your legacy before someone else has to.
-   6.  Need a Hand? Let’s Chat.
-   * Categorise it by different fields: Legal, tax, cross-border, general, etc.
-   * Calendly-style appointment booking flow
-   7. The Real Stories 
-   * Customer experience (video snippets or Google reviews)
-   * Trust badges or ratings
-   * Testimonials from the PSPs
-   8. Contact / Support
-   * Email, WhatsApp, and phone
-   * FAQ (privacy, legality, pricing, etc.)
-   * Simple contact form
-   9. Legal / Privacy / Terms
-   * Privacy policy
-   * Terms of use
-   * Data protection policy
-
-
-Things to be added to the website
-   1. Changing the name from will editor to something creative
+ Need a Hand? Let’s Chat.
+Categorise it by different fields: Legal, tax, cross-border, general, etc.
+Calendly-style appointment booking flow
+The Real Stories 
+Customer experience (video snippets or Google reviews)
+Trust badges or ratings
+Testimonials from the PSPs
+Contact / Support
+Email, WhatsApp, and phone
+FAQ (privacy, legality, pricing, etc.)
+Simple contact form
+Legal / Privacy / Terms
+Privacy policy
+Terms of use
+Data protection policy
