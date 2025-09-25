@@ -1932,6 +1932,13 @@ header.sofax-header-section.sticky-menu {
 	background-color: var(--white-bg);
 }
 
+/* Semi-transparent background for scrolled header */
+header.sofax-header-section.bg-semi-transparent {
+	background-color: rgba(247, 245, 242, 0.516);
+	backdrop-filter: blur(10px);
+	-webkit-backdrop-filter: blur(10px);
+}
+
 header.sofax-header-section.sticky-menu.inner-header {
 	background-color: var(--dark-bg) !important;
 }

@@ -1,6 +1,8 @@
+"use client";
 import MobileNavbar from "@/components/common/navigation/mobile-nav/MobileNavbar";
 import HeaderButton from "../HeaderButton";
 import HeaderLogo from "../HeaderLogo";
+import { useEffect, useState } from "react";
 const menuItemsData = [
 	{
 		title: "Home",
@@ -24,8 +26,31 @@ const menuItemsData = [
 	},
 ];
 function Header() {
+	const [isScrolled, setIsScrolled] = useState(false);
+
+	useEffect(() => {
+		const handleScroll = () => {
+			const scrollTop = window.scrollY;
+			if (scrollTop > 100) {
+				setIsScrolled(true);
+			} else {
+				setIsScrolled(false);
+			}
+		};
+
+		window.addEventListener("scroll", handleScroll);
+		
+		// Cleanup function
+		return () => {
+			window.removeEventListener("scroll", handleScroll);
+		};
+	}, []);
+
 	return (
-		<header className="site-header sofax-header-section site-header--menu-center bg-transaparent" id="sticky-menu">
+		<header 
+			className={`site-header sofax-header-section site-header--menu-center ${isScrolled ? 'sticky-menu bg-semi-transparent' : 'bg-transaparent'}`} 
+			id="sticky-menu"
+		>
 			<div className="container">
 				<nav className="navbar site-navbar">
 					<HeaderLogo />
