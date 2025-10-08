@@ -31,7 +31,7 @@ function HomeOne() {
 			<Features />
 			
 			<PricePlan />
-			<Integrations />
+			{/* <Integrations /> */}
 			<Testimonial />
 			<Cta />
 		</>

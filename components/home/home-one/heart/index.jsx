@@ -1,6 +1,6 @@
 "use client";
 import Icon5 from "@/public/images/v4/icon5.png";
-import Thumb from "@/public/images/v4/testimonialthumb.png";
+import Thumb from "@/public/images/v4/founders.png";
 import Image from "next/image";
 import { useState } from "react";
 import FadeInUp from "../../../animation/FadeInUp";

@@ -73,8 +73,8 @@ function Header() {
 									</a>
 								</li>
 								<li className="nav-item">
-									<a href="#integration" className="nav-link-item">
-										Integration
+									<a href="#cta" className="nav-link-item">
+										Legacy Circle
 									</a>
 								</li>
 								<li className="nav-item">
