@@ -3989,7 +3989,7 @@ h1.post__title {
 	display: inline-block;
 }
 .sofax-popup-video:hover {
-	color: var(--white-bg);
+	color: var(--dark-bg);
 }
 .sofax-popup-video img {
 	margin-right: 10px;

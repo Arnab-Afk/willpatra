@@ -1,6 +1,6 @@
 "use client";
 import Shape1 from "@/public/images/v3/shape1.png";
-import PlayBtn from "@/public/images/v3/videoplay.png";
+import PlayBtn from "@/public/images/v3/play-24.png";
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";

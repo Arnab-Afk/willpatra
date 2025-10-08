@@ -31,7 +31,7 @@ function Heart() {
 					<div className="col-lg-7">
 						<div className="sofax-default-content testimonial-content-v4 tac">
 							<div className="tg-heading-subheading animation-style3">
-								<h2>The heart behind WillPatra</h2>
+								<h2>The Heart behind WillPatra</h2>
 							</div>
 							<p className="extra-mt">
 								"At WillPatra, we don’t just digitize succession planning; we redesign the entire experience. We act as your <b>Planning Partners</b> that guide, manage, and coordinate every part of the process, so you’re never left figuring things out alone."

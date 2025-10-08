@@ -17,7 +17,7 @@ function NewSolution() {
 					<div className="col-lg-6">
 						<div className="sofax-default-content tac">
 							<div className="tg-heading-subheading animation-style3">
-								<h2>The solution: </h2>
+								<h2>The solution </h2>
 								<h3><b>WillPatra</b> isn’t just a tool; it’s a complete, end-to-end experience. </h3>
 							</div>
 							<p style={{marginTop: '20px'}}>

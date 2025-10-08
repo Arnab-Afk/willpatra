@@ -21,7 +21,7 @@ function Solution() {
 								</h2>
 							</div>
 							<p>
-								Will Patra isn’t just a tool; it’s a complete, end-to-end experience. Whether you want to start today, explore your options, or walk the full journey with support, we meet you where you are and grow with you as your life evolves. From the first clause of your will to the last transfer of property, we make sure it all flows smoothly, legally, and with dignity. As they say, "A stitch in time saves nine".
+								Will Patra isn’t just a tool; it’s a complete, end-to-end experience. Whether you want to start today, explore your options, or walk the full journey with support, we meet you where you are and grow with you as your life evolves. From the first clause of your Will to the last transfer of property, we make sure it all flows smoothly, legally, and with dignity. As they say, "A stitch in time saves nine".
 							</p>
 							<div className="sofax-list-icon-wrap">
 								<div className="sofax-list-icon-icon">

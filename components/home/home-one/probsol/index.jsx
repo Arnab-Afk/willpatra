@@ -19,7 +19,7 @@ function Probsol() {
 								<h2>The Problem</h2>
 							</div>
 							<p>
-								For most people, making a will or setting up an estate plan feels complicated, expensive, and emotionally overwhelming. So they postpone it until it's too late.
+								For most people, making a Will or setting up an estate plan feels complicated, expensive, and emotionally overwhelming. So they postpone it until it's too late.
 							</p>
 							<p>
 								The existing solutions are fragmented, overly transactional, and rarely built for evolving, cross-border families. They lead to generations of loved ones left to deal with preventable conflict, confusion, and legal chaos. 
