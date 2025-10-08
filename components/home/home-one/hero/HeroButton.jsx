@@ -21,8 +21,8 @@ function HeroButton() {
 
 			<FadeInStaggerTwo className="sofax-hero-btn-wrap">
 				<FadeInStaggerTwoChildren>
-					<Link className="sofax-default-btn pill" data-text="Get Started" href="/contact-us">
-						<span className="button-wraper">Get Started </span>
+					<Link className="sofax-default-btn pill" data-text="Start Today" href="/contact-us">
+						<span className="button-wraper">Start Today </span>
 					</Link>
 				</FadeInStaggerTwoChildren>
 				<FadeInStaggerTwoChildren>

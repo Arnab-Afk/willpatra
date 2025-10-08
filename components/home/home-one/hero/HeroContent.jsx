@@ -8,7 +8,7 @@ function HeroContent() {
 				You plan the life. We’ll Help You Protect It
 			</h3>
 			<p>
-				  WillPatra is your Planning Partner in your complete succession journey - Wills, wealth, experts, and everything in between.
+				  WillPatra is your Planning Partner for life’s big handovers — from creating your Will to succession planning and transition assistance — guiding you every step of the way with trusted experts and an easy, end-to-end experience.
 			</p>
 		</div>
 	);
