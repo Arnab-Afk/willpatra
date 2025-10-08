@@ -34,7 +34,7 @@ function Services() {
 			<div className="container">
 				<div className="row">
 					<div className="sofax-section-title center">
-						<h2>Explore Our Comprehensive Services</h2>
+						<h2>Explore Our Services</h2>
 					</div>
 					{servicesData.map((service, index) => (
 						<FadeInStagger key={service.id} index={index} className="col-lg-6">

@@ -17,7 +17,7 @@ function Trust() {
 					<div className="col-lg-7">
 						<div className="sofax-default-content tac ml-80">
 							<div className="tg-heading-subheading animation-style3">
-								<h2>Who are we: </h2>
+								<h2>Who are we </h2>
 							</div>
 							<p>
 								Will Patra is your trusted companion in the world of succession planning (a space too often clouded by confusion, anxiety, and delay). We're reimagining it with clarity, ease, and care. Our mission is simple: 
