@@ -59,9 +59,12 @@ function PricePlan() {
 	return (
 		<section className="section sofax-section-padding bg-light" id="pricing">
 			<div className="container">
-				<div className="sofax-section-title center pb-50">
+				<div className="sofax-section-title center pb-50 max-width-large">
 					<div className="tg-heading-subheading animation-style3">
-						<h2>Choose the Plan That Fits Your Needs</h2>
+						<h2 style={{ whiteSpace: 'nowrap' }}>
+							<span style={{ display: 'block' }}>Choose the Plan That</span>
+							<span style={{ display: 'block' }}>Fits Your Needs</span>
+						</h2>
 					</div>
 				</div>
 
