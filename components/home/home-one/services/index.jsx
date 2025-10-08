@@ -39,13 +39,11 @@ function Services() {
 			<div className="container">
 				<div className="sofax-section-title max-width-770 ">
 					<div className="row">
-						<div className="col-xl-8 col-lg-8">
+						<div className="col-xl-12">
 							<div className="tg-heading-subheading animation-style3">
-								<h2>Explore Our Comprehensive Services</h2>
+								<h2>Explore Our Services</h2>
 							</div>
-						</div>
-						<div className="col-xl-4 col-lg-4 d-flex justify-content-end align-items-center">
-							<FadeInUp className="sofax-title-btn">
+							<FadeInUp className="sofax-title-btn pt-3">
 								<Link className="sofax-default-btn pill" data-text="View all services" href="/service">
 									<span className="button-wraper">View all services</span>
 								</Link>

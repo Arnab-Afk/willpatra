@@ -12,10 +12,15 @@ import TextSplitFadeIn from "../../../animation/TextSplitFadeIn";
 function Features() {
 	return (
 		<section className=" section sofax-section-padding" id="features">
-			<div className="sofax-section-title center">
+			<div className="sofax-section-title center max-width-large">
 				<div className="tg-heading-subheading ">
-					<h2>
-						<TextSplitFadeIn>Features That Redefine Succession Planning</TextSplitFadeIn>
+					<h2 style={{ whiteSpace: 'nowrap' }}>
+						<span style={{ display: 'block' }}>
+							<TextSplitFadeIn>Features That Redefine</TextSplitFadeIn>
+						</span>
+						<span style={{ display: 'block' }}>
+							<TextSplitFadeIn>Succession Planning</TextSplitFadeIn>
+						</span>
 					</h2>
 				</div>
 			</div>
