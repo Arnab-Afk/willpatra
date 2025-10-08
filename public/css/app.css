@@ -2284,6 +2284,7 @@ a.social-icon img {
 	padding: 17px 40px;
 	background-color: transparent;
 	border: 1px solid var(--heading-color);
+	color: var(--heading-color) !important;
 	transition: all 0.4s;
 }
 .sofax-default-btn.outline-btn:hover,
