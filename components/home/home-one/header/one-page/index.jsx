@@ -64,17 +64,17 @@ function Header() {
 								</li>
 								<li className="nav-item">
 									<a href="#service" className="nav-link-item">
-										Service
+										Products & Services
 									</a>
 								</li>
 								<li className="nav-item">
-									<a href="#pricing" className="nav-link-item">
-										Pricing
+									<a href="#about-us" className="nav-link-item">
+										About Us
 									</a>
 								</li>
 								<li className="nav-item">
 									<a href="#cta" className="nav-link-item">
-										Legacy Circle
+										Contact Us
 									</a>
 								</li>
 								<li className="nav-item">

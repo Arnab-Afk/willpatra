@@ -11,7 +11,7 @@ function FooterCta() {
 				<div className="col-xl-8 col-lg-8">
 					<div className="tg-heading-subheading animation-style3">
 						<h2>
-							<TextSplitFadeIn>Let's embark on a digital journey together!</TextSplitFadeIn>
+							<TextSplitFadeIn>Leave behind clarity-not confusion</TextSplitFadeIn>
 						</h2>
 					</div>
 					<div className="sofax-footer-shapev5">

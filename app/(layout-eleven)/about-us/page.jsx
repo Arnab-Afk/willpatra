@@ -7,18 +7,19 @@ import TeamMembers from "@/components/team-page/TeamMembers";
 
 // Teams images
 export const metadata = {
-	title: "Willpatra || Responsive Next.js Template About Us",
+	title: "Willpatra || About Us",
 
-	description: "Willpatra || Responsive Next.js Template",
+	description: "Willpatra - About Us",
 };
 function AboutUs() {
 	return (
 		<>
 			<BreadCrumb title="About Us" />
-			<Features />
 			<AboutOne />
-			<TeamMembers />
-			<AutoSlider />
+			<Features />
+			
+			{/* <TeamMembers /> */}
+			{/* <AutoSlider /> */}
 			<Faq />
 		</>
 	);

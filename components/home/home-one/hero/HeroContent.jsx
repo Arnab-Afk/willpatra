@@ -4,12 +4,15 @@ function HeroContent() {
 			<h1 className="slider-custom-anim-left" data-ani="slider-custom-anim-left" data-ani-delay="0.3s">
 				One Platform<br/>A Lifetime of Peace
 			</h1>
-			<h3 className="slider-custom-anim-left" data-ani="slider-custom-anim-left" data-ani-delay="0.3s">
-				You plan the life. We’ll Help You Protect It
-			</h3>
+			
 			<p>
-				  WillPatra is your Planning Partner for life’s big handovers — from creating your Will to succession planning and transition assistance — guiding you every step of the way with trusted experts and an easy, end-to-end experience.
+				  Life changes, families evolve, and responsibilities grow. You need trusted Partners that help guide, manage, and coordinate every part of your succession planning.<br/>
+WillPatra is here to help you protect everything you’ve built—without stress, confusion or headaches.<br/>
+From Creating your Will yourself for free to planning how your legacy moves forward, we guide you every step of the way.
 			</p>
+			<h3 className="slider-custom-anim-left" data-ani="slider-custom-anim-left" data-ani-delay="0.3s">
+				You plan your life. We’ll Help You Protect It.
+			</h3>
 		</div>
 	);
 }

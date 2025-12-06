@@ -16,13 +16,13 @@ function Probsol() {
 					<div className="col-lg-7">
 						<div className="sofax-default-content mr-90 fs-19 tac">
 							<div className="tg-heading-subheading animation-style3">
-								<h2>The Problem</h2>
+								<h2>WillPatra's Story</h2>
 							</div>
+							<h4>The inspiration behind WillPatra began with a simple, real story:</h4>
 							<p>
-								For most people, making a Will or setting up an estate plan feels complicated, expensive, and emotionally overwhelming. So they postpone it until it's too late.
-							</p>
+								A father in India wanted to smoothly pass on his hard-earned wealth to his children living abroad, only to discover a maze of conflicting advice, excessive paperwork, unclear rules and high costs							</p>
 							<p>
-								The existing solutions are fragmented, overly transactional, and rarely built for evolving, cross-border families. They lead to generations of loved ones left to deal with preventable conflict, confusion, and legal chaos. 
+								We realised it shouldn’t be difficult, so we built a simple, guided and <b>free</b> succession planning platform for everyone.
 							</p>
 							
 						</div>

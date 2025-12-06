@@ -10,29 +10,30 @@ import WhyChooseUs from "@/components/home/home-one/why-choose-us";
 import Features from "@/components/home/home-one/features";
 import Solution from "@/components/home/home-one/solution";
 import Problem from "@/components/home/home-one/problem";
-import Heart from "@/components/home/home-one/heart";
+// import Heart from "@/components/home/home-one/heart";
 import Probsol from "@/components/home/home-one/probsol";
 import NewSolution from "@/components/home/home-one/newsolution";
 import Trust from "@/components/home/home-one/hero/trust";
+import Challenge from "@/components/home/home-one/challenge";
 function HomeOne() {
 	return (
 		<>
 			<HeroSection />
 			{/* <LogoSlider /> */}
-			<Heart />
+			<Challenge />
 			<Probsol />
 			<NewSolution />
-			<Trust />	
+			{/* <Trust />	 */}
 			{/* <WhyChooseUs /> */}
 			<AboutTwo />
 			{/* <Problem />
 			<Solution /> */}
 			<Services />
-			<Features />
+			{/* <Features /> */}
 			
-			<PricePlan />
+			{/* <PricePlan /> */}
 			{/* <Integrations /> */}
-			<Testimonial />
+			{/* <Testimonial /> */}
 			<Cta />
 		</>
 	);

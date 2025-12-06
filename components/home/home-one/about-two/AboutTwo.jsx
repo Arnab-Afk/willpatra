@@ -3,64 +3,82 @@ import Image from "next/image";
 import FadeInRight from "../../../animation/FadeInRight";
 
 function AboutTwo() {
-return (
-<section className="section sofax-section-padding2 bg-light">
-<div className="container">
-<div className="row">
-<div className="col-lg-5 order-lg-2">
-<FadeInRight className="sofax-content-thumb-v10">
-<Image src={Thumb} alt="Thumb" />
-</FadeInRight>
-</div>
-<div className="col-lg-7">
-<div className="sofax-default-content mr-50">
-<div className="tg-heading-subheading animation-style3">
-<h2 className="tac">Where It All Began</h2>
-</div>
-<p className="tac">
-It all started with a father in India with two children overseas, and one big question: "How do I transfer everything smoothly, when my children aren't even in the same country?" What followed was a maze of legal advisors, tax consultants, and cross-border confusion. The process was expensive, disjointed, and full of uncertainty. That's when we realised: Estate planning doesn't have to be this hard.
-</p>
-<div className="extra-mt">
-<div className="sofax-content-iconbox-wrap">
-<div className="sofax-iconbox-icon">
-<Image src="/images/icons/bell.png" alt="challenge icon" width={32} height={32} />
-</div>
-<div className="sofax-iconbox-data">
-<h4>The Challenge</h4>
-<p>
-A father in India with overseas children faced the daunting task of transferring wealth smoothly across borders, leading to confusion and high costs.
-</p>
-</div>
-</div>
-<div className="sofax-content-iconbox-wrap">
-<div className="sofax-iconbox-icon">
-<Image src="/images/icons/sketchbook.png" alt="realization icon" width={32} height={32} />
-</div>
-<div className="sofax-iconbox-data">
-<h4>The Realization</h4>
-<p>
-We realized estate planning doesn't have to be this hard, prompting us to create a better solution for families everywhere.
-</p>
-</div>
-</div>
-<div className="sofax-content-iconbox-wrap">
-<div className="sofax-iconbox-icon">
-<Image src="/images/icons/construction.png" alt="building icon" width={32} height={32} />
-</div>
-<div className="sofax-iconbox-data">
-<h4>Building WillPatra</h4>
-<p>
-We built WillPatra to blend expert support and intuitive technology, helping families protect generational wealth without fear or chaos.
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-);
+    return (
+        <section className="section sofax-section-padding2 bg-light">
+            <div className="container">
+                <div className="row">
+                    <div className="col-lg-5 order-lg-2">
+                        <FadeInRight className="sofax-content-thumb-v10">
+                            <Image src={Thumb} alt="Thumb" />
+                        </FadeInRight>
+                    </div>
+                    <div className="col-lg-7">
+                        <div className="sofax-default-content mr-50">
+                            <div className="tg-heading-subheading animation-style3">
+                                <h2 className="tac">Why Choose WillPatra</h2>
+                            </div>
+                            <p className="tac">
+                                You maintain complete control over your estate and succession planning
+                            </p>
+                            <div className="extra-mt">
+                                <div className="sofax-content-iconbox-wrap">
+                                    {/* <div className="sofax-iconbox-icon">
+                                        <Image src="/images/icons/bell.png" alt="challenge icon" width={32} height={32} />
+                                    </div> */}
+                                    <div className="sofax-iconbox-data">
+                                        <h4>Update Anytime</h4>
+                                        <p>
+                                            Create & Update your Will & Estate anytime for <b>free</b>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div className="sofax-content-iconbox-wrap">
+                                    <div className="sofax-iconbox-data">
+                                        <h4>Video Declarations</h4>
+                                        <p>
+                                            Add a video message to your Will for additional safety so there’s no confusion later.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div className="sofax-content-iconbox-wrap">
+                                    <div className="sofax-iconbox-data">
+                                        <h4>Keep Loved-ones Informed</h4>
+                                        <p>
+                                            Executors and Beneficiaries are informed about your Will at your discretion; no chasing after people or missed assets
+                                        </p>
+                                    </div>
+                                </div>
+                                <div className="sofax-content-iconbox-wrap">
+                                    <div className="sofax-iconbox-data">
+                                        <h4>Estate Transition</h4>
+                                        <p>
+                                            Ensure smooth, efficient transfer of your estate when the time comes
+                                        </p>
+                                    </div>
+                                </div>
+                                <div className="sofax-content-iconbox-wrap">
+                                    <div className="sofax-iconbox-data">
+                                        <h4>Safe and Secure</h4>
+                                        <p>
+                                            Built with privacy and protection at the core
+                                        </p>
+                                    </div>
+                                </div>
+                                <div className="sofax-content-iconbox-wrap">
+                                    <div className="sofax-iconbox-data">
+                                        <h4>Clear Process</h4>
+                                        <p>
+                                            Personalised, Step-by-Step Guidance designed for you
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    );
 }
 
 export default AboutTwo;

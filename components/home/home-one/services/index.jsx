@@ -10,9 +10,9 @@ const servicesData = [
 	{
 		id: crypto.randomUUID(),
 		icon: Icon1,
-		title: "Will Creation",
+		title: "Free DIY Will Platform",
 		description:
-			"Protect your legacy and your loved ones with our intuitive and secure Will creation platform.",
+			"Protect your legacy and your loved ones with our intuitive and secure Will creation platform.Create and update your Will at no cost, anytime. Easy, secure, guided.",
 		link: "/willpatra",
 	},
 	{
@@ -26,11 +26,27 @@ const servicesData = [
 	{
 		id: crypto.randomUUID(),
 		icon: Icon3,
-		title: "Transition Assistance",
+		title: "Smart Will Assistance",
+		description:
+			"Want personal help? Talk to our experts. From choosing executors to handling cross-border assets—we’re here for you.",
+		link: "/coming-soon",
+	},
+	{
+		id: crypto.randomUUID(),
+		icon: Icon1,
+		title: "Will Registration Services",
+		description:
+			"Ensure your Will is legally recognized and securely stored with our hassle-free Will registration services.",
+		link: "/coming-soon",
+	},
+	{
+		id: crypto.randomUUID(),
+		icon: Icon2,
+		title: "Estate Transition Assistance",
 		description:
 			"Ensure smooth and precise execution of your wishes with our trusted network of experts.",
 		link: "/coming-soon",
-	},
+	}
 ];
 
 function Services() {

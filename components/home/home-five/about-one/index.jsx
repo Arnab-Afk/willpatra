@@ -18,19 +18,23 @@ function AboutOne() {
 					<div className="col-lg-6">
 						<div className="sofax-default-content tac">
 							<div className="tg-heading-subheading animation-style3">
-								<h2>We are loyal to innovative brands</h2>
+								<h2>Who We Are</h2>
 							</div>
 							<p>
-								We are a one-stop digital agency, taking care of everything from custom web design to
-								meticulous planning with strategies that increase your reach, drive traffic and
-								engagement.
+								WillPatra is India’s first guided digital platform for stress-free Will & succession planning. We combine expert support with simple technology to make one of life’s most emotional decisions more comforting, clear, and secure.
 							</p>
+							<h4>Our Mission:</h4>
+							<p>
+								To empower every Indian family to protect their legacy with confidence—not fear.
+								<br/>No complicated language. No hidden costs. Just guidance, clarity, and peace of mind.
+								<br/>You plan your life. We help you protect it.
 
-							<AboutCounter />
+							</p>
+							{/* <AboutCounter /> */}
 
 							<FadeInUp className="extra-mt tac3">
-								<Link className="sofax-default-btn pill" data-text="Explore More" href="/contact-us">
-									<span className="button-wraper">Explore More</span>
+								<Link className="sofax-default-btn pill" data-text="Contact Us" href="/contact-us">
+									<span className="button-wraper">Contact Us</span>
 								</Link>
 							</FadeInUp>
 							<div className="sofax-about-shapev5">

@@ -10,6 +10,7 @@ function Hero() {
 					<HeroContent />
 
 					<HeroButton />
+					
 				</div>
 			</div>
 			

@@ -128,7 +128,7 @@
 	.site-header--menu-left .container-fluid .nav-item.has-megamenu:hover > .sub-menu {
 		transform: translateX(0%) translateY(-10px);
 		left: 0%;
-		margin-left: 20px;
+		margin-left: 15px;
 	}
 }
 
@@ -1001,6 +1001,14 @@ li.sub-menu--item.nav-item-has-children .arrow-down-icon {
 	text-transform: uppercase;
 	margin-bottom: 25px;
 	display: none;
+}
+.subtitle-header{
+	color: #000;
+	font-size: medium;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: 1.1px;
+	
 }
 
 @media (min-width: 992px) {

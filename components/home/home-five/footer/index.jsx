@@ -17,8 +17,7 @@ function Footer() {
 									<Image src={Logo} alt="logo" />
 								</Link>
 								<p>
-									Sofax has many plans for the future to work with great clients and continue to work
-									with agencies.
+									WillPatra is India’s first guided digital platform for stress-free Will & succession planning. We combine expert support with simple technology to make one of life’s most emotional decisions more comforting, clear, and secure.
 								</p>
 								<div className="sofax-social-icon">
 									<ul>
