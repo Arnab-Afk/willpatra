@@ -9,16 +9,16 @@ const menuItemsData = [
 		url: "#hero",
 	},
 	{
-		title: "Service",
+		title: "Products & Services",
 		url: "#service",
 	},
 	{
-		title: "Pricing",
-		url: "#pricing",
+		title: "About Us",
+		url: "#about-us",
 	},
 	{
-		title: "Integration",
-		url: "#integration",
+		title: "Contact Us",
+		url: "#cta",
 	},
 	{
 		title: "Testimonial",
@@ -63,17 +63,17 @@ function Header() {
 									</a>
 								</li>
 								<li className="nav-item">
-									<a href="#service" className="nav-link-item">
+									<a href="#service" className="nav-link-item" style={{ whiteSpace: 'nowrap' }}>
 										Products & Services
 									</a>
 								</li>
 								<li className="nav-item">
-									<a href="#about-us" className="nav-link-item">
+									<a href="#about-us" className="nav-link-item" style={{ whiteSpace: 'nowrap' }}>
 										About Us
 									</a>
 								</li>
 								<li className="nav-item">
-									<a href="#cta" className="nav-link-item">
+									<a href="#cta" className="nav-link-item" style={{ whiteSpace: 'nowrap' }}>
 										Contact Us
 									</a>
 								</li>

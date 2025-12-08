@@ -18,8 +18,7 @@ function Footer() {
 									<Image src={Logo} alt="Logo" />
 								</Link>
 								<p>
-									Sofax is best softwere platform manage your sales depends on your specific business
-									needs budget & industry.
+									WillPatra is India's first guided digital platform for stress-free Will & succession planning. We combine expert support with simple technology to make one of life's most emotional decisions more comforting, clear, and secure.
 								</p>
 								<div className="sofax-social-icon">
 									<ul>
@@ -112,16 +111,19 @@ function Footer() {
 								<h5>Company</h5>
 								<ul>
 									<li>
+										<Link href="/">Home</Link>
+									</li>
+									<li>
+										<Link href="/products-services">Products & Services</Link>
+									</li>
+									<li>
 										<Link href="/about-us">About Us</Link>
 									</li>
 									<li>
-										<Link href="/contact-us">Contact US</Link>
+										<Link href="/contact-us">Contact Us</Link>
 									</li>
 									<li>
-										<Link href="/contact-us">Privacy Policy</Link>
-									</li>
-									<li>
-										<Link href="/terms-and-condition">Terms & Conditions</Link>
+										<Link href="/testimonial">Testimonial </Link>
 									</li>
 								</ul>
 							</div>
@@ -131,17 +133,12 @@ function Footer() {
 								<h5>Utility pages</h5>
 								<ul>
 									<li>
-										<Link href="/contact-us">Instructions</Link>
+										<Link href="/contact-us">Privacy Policy</Link>
 									</li>
 									<li>
-										<Link href="/contact-us">Style guide</Link>
+										<Link href="/contact-us">Terms & Conditions</Link>
 									</li>
-									<li>
-										<Link href="/error-page">404 Pages</Link>
-									</li>
-									<li>
-										<Link href="/contact-us">Licenses</Link>
-									</li>
+									
 								</ul>
 							</div>
 						</div>
